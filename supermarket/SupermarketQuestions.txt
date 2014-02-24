@@ -1,0 +1,14 @@
+1. Does fractional money exist? 
+It only exists during internal calculation in your program to prevent rounding errors. In real life you cannot pay someone with a fraction of a cent. Even electronic transfers will not use fractions; the smallest value will be cents.
+
+2.  When (if ever) does rounding take place? 
+Only when a value needs to be displayed in a system to a user, or when a value needs to be saved somewhere and it is for instance the agreed upon balance owing by someone (the value would normally be rounded to 2 decimal places).
+
+3.  How do you keep an audit trail of pricing decisions (and do you need to)?
+You would have to keep history on all important item properties, if any of them change an audit entry would need to be created with the new and old value as well as when it happened and who changed it. If you do not keep this history, it would be difficult to trouble shoot and also easy for someone to commit fraudulent transactions with prices that can be altered. 
+
+4. Are costs and prices the same class of thing? 
+No, costs are the amount of money it took to produce or manufacture a certain thing. While prices is what someone would be willing to pay for the item, there is normally a profit amount included in the price. In certain situations the price can be lowered below the cost price (For instance a special is run on a certain product) 
+
+5.  If a shelf of 100 cans is priced using “buy two, get one free”, how do you value the stock? 
+I would still value the stock as 100 cans because not everyone will take the special and when someone do buy with the special on the product a discount would be subtracted from his total. You can save it as a separate field, but it would not be accurate because of the problem where not everyone would take the special. It would rather be a range of a min and max value the 100 cans can be sold.
