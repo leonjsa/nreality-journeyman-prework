@@ -1,0 +1,15 @@
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.Test.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.Test.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\nunit.framework.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\StoryQ.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\StoryQ.pt-BR.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\StoryQ.sr-SP.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\nunit.framework.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\StoryQ.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\StoryQ.pt-BR.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\StoryQ.sr-SP.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\obj\Debug\FizzBuzz.Test.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\obj\Debug\FizzBuzz.Test.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\obj\Debug\FizzBuzz.Test.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.exe
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.pdb

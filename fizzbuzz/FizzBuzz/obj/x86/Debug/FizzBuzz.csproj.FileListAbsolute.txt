@@ -1,0 +1,9 @@
+C:\Users\jan\Documents\Visual Studio 2010\Projects\Exercises\Ex1\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\jan\Documents\Visual Studio 2010\Projects\Exercises\Ex1\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\jan\Documents\Visual Studio 2010\Projects\Exercises\Ex1\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\Documents\Visual Studio 2010\Projects\Exercises\Ex1\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\jan\Documents\Visual Studio 2010\Projects\Exercises\Ex1\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex1-FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
