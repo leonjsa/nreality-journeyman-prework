@@ -1,0 +1,4 @@
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures\bin\Debug\MyDataStructures.exe
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures\bin\Debug\MyDataStructures.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures\obj\x86\Debug\MyDataStructures.exe
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures\obj\x86\Debug\MyDataStructures.pdb

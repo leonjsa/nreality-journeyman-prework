@@ -1,0 +1,15 @@
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\MyDataStructures.Tests.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\MyDataStructures.Tests.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\StoryQ.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\StoryQ.pt-BR.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\StoryQ.sr-SP.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\StoryQ.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\StoryQ.pt-BR.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\StoryQ.sr-SP.xml
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\obj\Debug\MyDataStructures.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\obj\Debug\MyDataStructures.Tests.dll
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\obj\Debug\MyDataStructures.Tests.pdb
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\MyDataStructures.exe
+C:\Users\Leon\Documents\Visual Studio 2010\Projects\Exercises\Ex3-DataStructures\MyDataStructures\MyDataStructures.Tests\bin\Debug\MyDataStructures.pdb
